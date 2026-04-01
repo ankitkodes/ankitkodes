@@ -1,15 +1,5 @@
 <div align="center">
-
-```
-█████╗ ███╗   ██╗██╗  ██╗██╗████████╗██╗  ██╗ ██████╗ ██████╗ ██████╗ ███████╗███████╗
-██╔══██╗████╗  ██║██║ ██╔╝██║╚══██╔══╝██║ ██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝
-███████║██╔██╗ ██║█████╔╝ ██║   ██║   █████╔╝ ██║     ██║   ██║██║  ██║█████╗  ███████╗
-██╔══██║██║╚██╗██║██╔═██╗ ██║   ██║   ██╔═██╗ ██║     ██║   ██║██║  ██║██╔══╝  ╚════██║
-██║  ██║██║ ╚████║██║  ██╗██║   ██║   ██║  ██╗╚██████╗╚██████╔╝██████╔╝███████╗███████║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
-```
-
-### `< Full-Stack Developer />` · Building things that actually work ⚙️
+ < Full-Stack Developer />` · Building things that actually work ⚙️
 
 *I write code that talks to databases, APIs, and occasionally to itself.*  
 *Debugging is my cardio. Shipping is my therapy. Coffee is my compiler.*
